@@ -35,6 +35,7 @@
 22. [秒杀系统设计与实现.互联网工程师进阶与分析](https://github.com/qiurunze123/miaosha)
 23. [Java工程师成神之路](https://github.com/hollischuang/toBeTopJavaer)
 24. [Go框架](https://github.com/yinggaozhen/awesome-go-cn)
+25. [5年时间服务器从0到200，一个创业公司的架构野蛮生长史](https://zhuanlan.zhihu.com/p/33401898)
 
 ## 联系作者
 
