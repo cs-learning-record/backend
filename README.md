@@ -10,3 +10,4 @@
 8. [计算机学习资料列表](https://github.com/NGLSL/learning-material-list)
 9. [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 10. [服务端开发实践与工程架构](https://github.com/wx-chevalier/Backend-Series)
+11. [2019年最新总结，从程序员到CTO](https://github.com/0voice/from_coder_to_expert)
