@@ -1,4 +1,4 @@
-8. [全栈方向系列文章](https://github.com/pkwenda/Blog)
+1. [全栈方向系列文章](https://github.com/pkwenda/Blog)
 1. [后台技术栈/架构师之路](https://github.com/frank-lam/fullstack-tutorial)
 1. [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
 2. [CS-Notes](https://github.com/CyC2018/CS-Notes)
