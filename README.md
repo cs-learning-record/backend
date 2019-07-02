@@ -10,4 +10,9 @@
 8. [计算机学习资料列表](https://github.com/NGLSL/learning-material-list)
 9. [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 10. [服务端开发实践与工程架构](https://github.com/wx-chevalier/Backend-Series)
+<<<<<<< HEAD
 11. [区块链上的纸质书交易平台](https://github.com/b3log/chainbook)
+=======
+11. [2019年最新总结，从程序员到CTO](https://github.com/0voice/from_coder_to_expert)
+12. [区块链(BlockChain)技术](https://github.com/chaozh/awesome-blockchain-cn)
+>>>>>>> 55167122174eb921ed4f5b9e2b59abcd22f781d6
