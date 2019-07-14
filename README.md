@@ -26,7 +26,7 @@
 1. [区块链上的纸质书交易平台](https://github.com/b3log/chainbook)
 1. [2019 年最新总结，从程序员到 CTO](https://github.com/0voice/from_coder_to_expert)
 1. [区块链(BlockChain)技术](https://github.com/chaozh/awesome-blockchain-cn)
-1. [《Go 语言高级编程》开源图书](https://github.com/chai2010/advanced-go-programming-book)
+1. [《Go 语言高级编程》开源图书](https://github.com/chai2010/advanced-go-programming-book) 1.[互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
 
 ## 联系作者
 
