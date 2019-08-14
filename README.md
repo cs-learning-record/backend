@@ -32,6 +32,8 @@
 11. [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
 12. [后端开发常用框架文档](https://github.com/docs4dev/docs4dev)
 13. [Java学习+面试指南](https://github.com/Snailclimb/JavaGuide)
+14. [秒杀系统设计与实现.互联网工程师进阶与分析](https://github.com/qiurunze123/miaosha)
+15. [Java工程师成神之路](https://github.com/hollischuang/toBeTopJavaer)
 
 ## 联系作者
 
