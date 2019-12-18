@@ -36,7 +36,6 @@
 23. [Java 工程师成神之路](https://github.com/hollischuang/toBeTopJavaer)
 24. [JavaFamily](https://github.com/AobingJava/JavaFamily)
 25. [Go 框架](https://github.com/yinggaozhen/awesome-go-cn)
-26. [5 年时间服务器从 0 到 200，一个创业公司的架构野蛮生长史](https://zhuanlan.zhihu.com/p/33401898)
 
 ## 联系作者
 
