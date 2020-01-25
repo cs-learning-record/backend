@@ -35,7 +35,8 @@
 22. [秒杀系统设计与实现.互联网工程师进阶与分析](https://github.com/qiurunze123/miaosha)
 23. [Java 工程师成神之路](https://github.com/hollischuang/toBeTopJavaer)
 24. [JavaFamily](https://github.com/AobingJava/JavaFamily)
-25. [Go 框架](https://github.com/yinggaozhen/awesome-go-cn)
+25. [架构师必备的 37 项技能清单](https://mp.weixin.qq.com/s/9wI_NNlVRZ34dPWTYLEddA)
+26. [Go 框架](https://github.com/yinggaozhen/awesome-go-cn)
 
 ## 联系作者
 
